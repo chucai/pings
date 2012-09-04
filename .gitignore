@@ -1,0 +1,7 @@
+/datas/analysis/*.txt
+/datas/origin/*.txt
+/datas/test/*.txt
+
+/datas/result.txt
+
+/*/*.swp
